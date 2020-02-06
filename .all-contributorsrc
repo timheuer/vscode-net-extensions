@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "timheuer",
+      "name": "Tim Heuer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4821?v=4",
+      "profile": "https://timheuer.com/blog/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "vscode-net-extensions",
+  "projectOwner": "timheuer",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
