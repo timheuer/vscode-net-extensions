@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+      "ms-vscode.vscode-csharp",
+      "formulahendry.dotnet-test-explorer",
+      "Ionide.Ionide-fsharp"
+    ]
+}

@@ -9,6 +9,7 @@ This repo contains several variants and encourages contributions to ensure those
 
 - extensions.json: A base file that serves as a 'minimum' set of extensions for the most common .NET Core experience (e.g., debuggers, etc)
 - extensions-fsharp.json: Specific for F# sharp development experiences
+- extensions-azure.json: Packages for .NET developers and the Azure Tools recommendation with K8S and YAML support
 
 ## What this repo is NOT and Contributing
 There are MANY extensions out there for VS Code that are amazing.  Individuals have also created wrapper extensions to try to encapsulate a single package that basically is just a dependency extension to install others.  These are great!  This is not what this repo is for to create more of those or to declare any 'winner' in those.  Often those include not only some core functionality but items of preference (icons, fonts, highlighting rules) that may differ from developer to developer.  When contributing ideas to the files in this repo, I don't want to include those extension preference pack style recommendations but identify specific core 'leaf' extensions.
